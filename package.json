@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "bulma": "^1.0.2"
+  },
+  "name": "ls-website",
+  "version": "1.0.0",
+  "description": "bla-bla-bla",
+  "main": "script.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
